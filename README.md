@@ -2,7 +2,7 @@
 Ide tentang skripsi sesuai materi yang telah di terima
 
 Aldy Destianto Wibowo - TI4A - 1541180136
-
+Setelah mempelajari dari udacity yang terdiri dari fragment, library, firebase cloud messaging, places (maps)
 Ide tentang skripsi berbasis mobile saya yakni "PENCARIAN RUMAH MAKAN "
 
 Android merupakan sebuah sitem operasi yang sangat di gemari masyarakat belakangan ini,.
